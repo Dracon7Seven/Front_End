@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    padding: 1px 1px;
+    background-color: rgb(31, 111, 231);
+    text-align: center;
+}
+
+.gif {
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+}
+
+h2{
+    padding: 30px 30px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p{
+    padding: 30px 30px;
+    text-align: center;
+    font-size: x-large;
+}
+
+p2{
+    padding: 30px 30px;
+    text-align: center;
+    font-size: large;
+}
+
+h3{
+    padding: 30px 30px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p3{
+    padding: 30px 30px;
+    text-align: center;
+    font-size: x-large;
+}
+
+footer{
+    color: black;
+    background-color: rgb(31, 111, 231);
+    padding: 30px 30px;
+    text-align: center;
+}
